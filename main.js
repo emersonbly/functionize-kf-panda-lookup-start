@@ -81,3 +81,8 @@ function setCharacter(charName, ) {
 
 
 }
+
+function setQuote() {
+
+  
+}
