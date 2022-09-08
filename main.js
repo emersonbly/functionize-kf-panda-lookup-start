@@ -82,7 +82,7 @@ function setCharacter(charName, ) {
 
 }
 
-function setQuote() {
+function setQuote(charName) {
 
-  
+
 }
